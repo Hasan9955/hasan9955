@@ -7,7 +7,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussainHasan9955/Hasan9955/main/images/linkedin.png">](https://www.linkedin.com/in/hasan-bin-ali-303b82299)[<img height="75" src="https://github.com/Hasan9955/Hasan9955/main/images/facebook1.png">](https://www.facebook.com/hasan.binali.311)
+[<p align="center"><img height="75" src="https://github.com/Hasan9955/Hasan9955/blob/main/images/linkedin.png">](https://www.linkedin.com/in/hasan-bin-ali-303b82299)[<img height="75" src="https://github.com/Hasan9955/Hasan9955/blob/main/images/facebook1.png">](https://www.facebook.com/hasan.binali.311)
 
 <br />
 
