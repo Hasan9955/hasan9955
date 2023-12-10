@@ -18,18 +18,21 @@
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 </p>
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=firebase"/>
 <img src="https://skillicons.dev/icons?i=vite"/>
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </p>
 
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=express"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/> 
 </p>
