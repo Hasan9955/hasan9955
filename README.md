@@ -3,18 +3,36 @@
 </a>
 
 
-## Reach me out
+<!-- ## Reach me out
 
 <br />
 
 [<p align="center"><img height="75" src="https://github.com/Hasan9955/Hasan9955/blob/main/images/linkedin.png">](https://www.linkedin.com/in/hasan-bin-ali-303b82299)[<img height="75" src="https://github.com/Hasan9955/Hasan9955/blob/main/images/facebook1.png">](https://www.facebook.com/hasan.binali.311)
 
-<br />
+<br /> -->
 
 ## Technologies that I know
 
-<br>
+<br> 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=vite"/>
+</p>
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/> 
+</p>
 <br/>
 
 ## Current overview
